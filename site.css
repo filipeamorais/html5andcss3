@@ -16,6 +16,7 @@ main h1{
     text-align: center;
     padding: 25px;
     border-bottom: 10px solid black;
+    text-transform: uppercase;
 }
 
 main div{
