@@ -137,3 +137,6 @@ article {
   background-color: #E6E7E8;
 }
 
+nav a {
+  text-transform: lowercase;
+}
